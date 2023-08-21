@@ -1,0 +1,25 @@
+a{
+    text-decoration: none !important;
+}
+.photos{
+    margin-top: 200px;
+}
+.phottos{
+    margin: 0 auto !important;
+}
+.img-members{
+    border-radius: 50%;
+    width: 350px;
+    outline: 2px solid var(--primary-Color);
+    outline-offset: .7rem;
+}
+.p-member{
+    color: var(--Third-Color);
+}
+#p-resome{
+    text-align: justify !important;
+    padding: 30px 10px;
+}
+.mar-t{
+    margin-top: 80px !important;
+}

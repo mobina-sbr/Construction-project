@@ -1,0 +1,17 @@
+html,
+body {
+    font-family: "Vazir" !important;
+    direction: rtl;
+    /* background-color: #d0d7d3 !important; */
+    background-color: #fff;
+    position: relative;
+    height: 100%;
+    /* width: 100% !important; */
+}
+a{
+    list-style: none;
+    text-decoration: none !important;
+}
+.projeect-page{
+    margin-top: 150px;
+}
